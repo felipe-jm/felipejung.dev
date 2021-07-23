@@ -71,7 +71,7 @@
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
     "@commitlint/config-conventional": "^8.3.4",
-    "@types/node": "^13.11.0",
+    "@types/node": "^16.4.1",
     "@types/react": "^16.9.49",
     "@types/react-dom": "^16.9.6",
     "@types/react-helmet": "^6.1.0",
